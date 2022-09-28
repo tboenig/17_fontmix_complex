@@ -28,12 +28,18 @@ fonts blackletter and antiqua, partly two-columned, initials, partly two-columne
          <tr>
             <th>TextLine</th>
             <th>Page</th>
+            <th>TxtRegion</th>
+            <th>GraphRegion</th>
+            <th>SepRegion</th>
          </tr>
       </thead>
       <tbody>
          <tr>
-            <td>0</td>
-            <td>0</td>
+            <td>1140</td>
+            <td>23</td>
+            <td>275</td>
+            <td>10</td>
+            <td>14</td>
          </tr>
       </tbody>
    </table>
@@ -62,7 +68,103 @@ fonts blackletter and antiqua, partly two-columned, initials, partly two-columne
                   <th>Page</th>
                </tr>
             </thead>
-            <tbody/>
+            <tbody>
+               <tr>
+                  <td>glauber_opera01_1658</td>
+                  <td>127</td>
+                  <td/>
+                  <td/>
+                  <td>3</td>
+                  <td/>
+                  <td/>
+                  <td>2</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>376</td>
+                  <td>6</td>
+               </tr>
+               <tr>
+                  <td>lohenstein_agrippina_1665</td>
+                  <td>56</td>
+                  <td/>
+                  <td/>
+                  <td>3</td>
+                  <td/>
+                  <td/>
+                  <td>2</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>109</td>
+                  <td>3</td>
+               </tr>
+               <tr>
+                  <td>valentinus_occulta_1603</td>
+                  <td>22</td>
+                  <td/>
+                  <td/>
+                  <td>4</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>164</td>
+                  <td>6</td>
+               </tr>
+               <tr>
+                  <td>meyfart_rhetorica_1634</td>
+                  <td>27</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>4</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>113</td>
+                  <td>4</td>
+               </tr>
+               <tr>
+                  <td>arnold_ketzerhistorie01_1699</td>
+                  <td>43</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>6</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>378</td>
+                  <td>4</td>
+               </tr>
+            </tbody>
          </table>
       </div>
    </div>

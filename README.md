@@ -70,6 +70,25 @@ fonts blackletter and antiqua, partly two-columned, initials, partly two-columne
             </thead>
             <tbody>
                <tr>
+                  <td>glauber_opera01_1658</td>
+                  <td>127</td>
+                  <td/>
+                  <td/>
+                  <td>3</td>
+                  <td/>
+                  <td/>
+                  <td>2</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>376</td>
+                  <td>6</td>
+               </tr>
+               <tr>
                   <td>meyfart_rhetorica_1634</td>
                   <td>27</td>
                   <td/>
@@ -87,6 +106,25 @@ fonts blackletter and antiqua, partly two-columned, initials, partly two-columne
                   <td/>
                   <td>113</td>
                   <td>4</td>
+               </tr>
+               <tr>
+                  <td>valentinus_occulta_1603</td>
+                  <td>22</td>
+                  <td/>
+                  <td/>
+                  <td>4</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>164</td>
+                  <td>6</td>
                </tr>
                <tr>
                   <td>lohenstein_agrippina_1665</td>
@@ -125,44 +163,6 @@ fonts blackletter and antiqua, partly two-columned, initials, partly two-columne
                   <td/>
                   <td>378</td>
                   <td>4</td>
-               </tr>
-               <tr>
-                  <td>valentinus_occulta_1603</td>
-                  <td>22</td>
-                  <td/>
-                  <td/>
-                  <td>4</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>164</td>
-                  <td>6</td>
-               </tr>
-               <tr>
-                  <td>glauber_opera01_1658</td>
-                  <td>127</td>
-                  <td/>
-                  <td/>
-                  <td>3</td>
-                  <td/>
-                  <td/>
-                  <td>2</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>376</td>
-                  <td>6</td>
                </tr>
             </tbody>
          </table>

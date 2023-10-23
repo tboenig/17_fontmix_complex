@@ -231,7 +231,7 @@ An image database</p>
                         Metadata for the complete collection and the components are in METS format.</p>
    <ul>
       <li>
-         <a href="https://github.com/tboenig/17_fontmix_complex/releases/download/v1.0.0/bagitDump-v8.zip">Current version download: bagitDump-v8.zip</a>
+         <a href="https://github.com/tboenig/17_fontmix_complex/releases/tag/v1.1.1">The BagIt 'ocrd.zip' files for the current version, please download them from the latest release.: Release 10_v1.1.1</a>
       </li>
       <li>
          <a href="https://github.com/tboenig/17_fontmix_complex/releases">Version archive</a>

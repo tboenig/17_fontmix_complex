@@ -194,6 +194,181 @@ fonts blackletter and antiqua, partly two-columned, initials, partly two-columne
          </thead>
          <tbody>
             <tr>
+               <th>glauber_opera01_1658</th>
+               <td>376</td>
+               <td>6</td>
+               <td>127</td>
+               <td>0</td>
+               <td>0</td>
+               <td>3</td>
+               <td>0</td>
+               <td>0</td>
+               <td>2</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+            </tr>
+            <tr>
+               <td colspan="17" style="text-align:left !important;">
+                  <details>
+                     <summary>Overview</summary>
+                     <table>
+                        <thead>
+                           <tr>
+                              <th>document</th>
+                              <th>TextLine</th>
+                              <th>Page</th>
+                              <th>TxtRegion</th>
+                              <th>ImgRegion</th>
+                              <th>LineDrawRegion</th>
+                              <th>GraphRegion</th>
+                              <th>TabRegion</th>
+                              <th>ChartRegion</th>
+                              <th>SepRegion</th>
+                              <th>MathRegion</th>
+                              <th>ChemRegion</th>
+                              <th>MusicRegion</th>
+                              <th>AdRegion</th>
+                              <th>NoiseRegion</th>
+                              <th>UnkownRegion</th>
+                              <th>CustomRegion</th>
+                           </tr>
+                        </thead>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/17_fontmix_complex/blob/v1.1.1/data/glauber_opera01_1658/GT-PAGE/glauber_opera01_1658_0007.xml">glauber_opera01_1658_0007.xml</a>
+                           </td>
+                           <td>88</td>
+                           <td>1</td>
+                           <td>35</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/17_fontmix_complex/blob/v1.1.1/data/glauber_opera01_1658/GT-PAGE/glauber_opera01_1658_0029.xml">glauber_opera01_1658_0029.xml</a>
+                           </td>
+                           <td>28</td>
+                           <td>1</td>
+                           <td>8</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/17_fontmix_complex/blob/v1.1.1/data/glauber_opera01_1658/GT-PAGE/glauber_opera01_1658_0078.xml">glauber_opera01_1658_0078.xml</a>
+                           </td>
+                           <td>42</td>
+                           <td>1</td>
+                           <td>5</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/17_fontmix_complex/blob/v1.1.1/data/glauber_opera01_1658/GT-PAGE/glauber_opera01_1658_0009.xml">glauber_opera01_1658_0009.xml</a>
+                           </td>
+                           <td>143</td>
+                           <td>1</td>
+                           <td>66</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/17_fontmix_complex/blob/v1.1.1/data/glauber_opera01_1658/GT-PAGE/glauber_opera01_1658_0072.xml">glauber_opera01_1658_0072.xml</a>
+                           </td>
+                           <td>41</td>
+                           <td>1</td>
+                           <td>7</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/17_fontmix_complex/blob/v1.1.1/data/glauber_opera01_1658/GT-PAGE/glauber_opera01_1658_0032.xml">glauber_opera01_1658_0032.xml</a>
+                           </td>
+                           <td>34</td>
+                           <td>1</td>
+                           <td>6</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                     </table>
+                  </details>
+               </td>
+            </tr>
+            <tr>
                <th>meyfart_rhetorica_1634</th>
                <td>113</td>
                <td>4</td>
@@ -240,49 +415,7 @@ fonts blackletter and antiqua, partly two-columned, initials, partly two-columne
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/17_fontmix_complex/blob/v1.0.0/data/meyfart_rhetorica_1634/GT-PAGE/meyfart_rhetorica_1634_0122.xml">meyfart_rhetorica_1634_0122.xml</a>
-                           </td>
-                           <td>30</td>
-                           <td>1</td>
-                           <td>6</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/17_fontmix_complex/blob/v1.0.0/data/meyfart_rhetorica_1634/GT-PAGE/meyfart_rhetorica_1634_0022.xml">meyfart_rhetorica_1634_0022.xml</a>
-                           </td>
-                           <td>37</td>
-                           <td>1</td>
-                           <td>7</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/17_fontmix_complex/blob/v1.0.0/data/meyfart_rhetorica_1634/GT-PAGE/meyfart_rhetorica_1634_0007.xml">meyfart_rhetorica_1634_0007.xml</a>
+                              <a href="https://github.com/tboenig/17_fontmix_complex/blob/v1.1.1/data/meyfart_rhetorica_1634/GT-PAGE/meyfart_rhetorica_1634_0007.xml">meyfart_rhetorica_1634_0007.xml</a>
                            </td>
                            <td>16</td>
                            <td>1</td>
@@ -303,256 +436,53 @@ fonts blackletter and antiqua, partly two-columned, initials, partly two-columne
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/17_fontmix_complex/blob/v1.0.0/data/meyfart_rhetorica_1634/GT-PAGE/meyfart_rhetorica_1634_0021.xml">meyfart_rhetorica_1634_0021.xml</a>
+                              <a href="https://github.com/tboenig/17_fontmix_complex/blob/v1.1.1/data/meyfart_rhetorica_1634/GT-PAGE/meyfart_rhetorica_1634_0022.xml">meyfart_rhetorica_1634_0022.xml</a>
+                           </td>
+                           <td>37</td>
+                           <td>1</td>
+                           <td>7</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/17_fontmix_complex/blob/v1.1.1/data/meyfart_rhetorica_1634/GT-PAGE/meyfart_rhetorica_1634_0122.xml">meyfart_rhetorica_1634_0122.xml</a>
+                           </td>
+                           <td>30</td>
+                           <td>1</td>
+                           <td>6</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/17_fontmix_complex/blob/v1.1.1/data/meyfart_rhetorica_1634/GT-PAGE/meyfart_rhetorica_1634_0021.xml">meyfart_rhetorica_1634_0021.xml</a>
                            </td>
                            <td>30</td>
                            <td>1</td>
                            <td>10</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                     </table>
-                  </details>
-               </td>
-            </tr>
-            <tr>
-               <th>lohenstein_agrippina_1665</th>
-               <td>109</td>
-               <td>3</td>
-               <td>56</td>
-               <td>0</td>
-               <td>0</td>
-               <td>3</td>
-               <td>0</td>
-               <td>0</td>
-               <td>2</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-            </tr>
-            <tr>
-               <td colspan="17" style="text-align:left !important;">
-                  <details>
-                     <summary>Overview</summary>
-                     <table>
-                        <thead>
-                           <tr>
-                              <th>document</th>
-                              <th>TextLine</th>
-                              <th>Page</th>
-                              <th>TxtRegion</th>
-                              <th>ImgRegion</th>
-                              <th>LineDrawRegion</th>
-                              <th>GraphRegion</th>
-                              <th>TabRegion</th>
-                              <th>ChartRegion</th>
-                              <th>SepRegion</th>
-                              <th>MathRegion</th>
-                              <th>ChemRegion</th>
-                              <th>MusicRegion</th>
-                              <th>AdRegion</th>
-                              <th>NoiseRegion</th>
-                              <th>UnkownRegion</th>
-                              <th>CustomRegion</th>
-                           </tr>
-                        </thead>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/17_fontmix_complex/blob/v1.0.0/data/lohenstein_agrippina_1665/GT-PAGE/lohenstein_agrippina_1665_0019.xml">lohenstein_agrippina_1665_0019.xml</a>
-                           </td>
-                           <td>32</td>
-                           <td>1</td>
-                           <td>9</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/17_fontmix_complex/blob/v1.0.0/data/lohenstein_agrippina_1665/GT-PAGE/lohenstein_agrippina_1665_0121.xml">lohenstein_agrippina_1665_0121.xml</a>
-                           </td>
-                           <td>38</td>
-                           <td>1</td>
-                           <td>13</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/17_fontmix_complex/blob/v1.0.0/data/lohenstein_agrippina_1665/GT-PAGE/lohenstein_agrippina_1665_0018.xml">lohenstein_agrippina_1665_0018.xml</a>
-                           </td>
-                           <td>39</td>
-                           <td>1</td>
-                           <td>34</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                     </table>
-                  </details>
-               </td>
-            </tr>
-            <tr>
-               <th>arnold_ketzerhistorie01_1699</th>
-               <td>378</td>
-               <td>4</td>
-               <td>43</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>6</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-            </tr>
-            <tr>
-               <td colspan="17" style="text-align:left !important;">
-                  <details>
-                     <summary>Overview</summary>
-                     <table>
-                        <thead>
-                           <tr>
-                              <th>document</th>
-                              <th>TextLine</th>
-                              <th>Page</th>
-                              <th>TxtRegion</th>
-                              <th>ImgRegion</th>
-                              <th>LineDrawRegion</th>
-                              <th>GraphRegion</th>
-                              <th>TabRegion</th>
-                              <th>ChartRegion</th>
-                              <th>SepRegion</th>
-                              <th>MathRegion</th>
-                              <th>ChemRegion</th>
-                              <th>MusicRegion</th>
-                              <th>AdRegion</th>
-                              <th>NoiseRegion</th>
-                              <th>UnkownRegion</th>
-                              <th>CustomRegion</th>
-                           </tr>
-                        </thead>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/17_fontmix_complex/blob/v1.0.0/data/arnold_ketzerhistorie01_1699/GT-PAGE/arnold_ketzerhistorie01_1699_0010.xml">arnold_ketzerhistorie01_1699_0010.xml</a>
-                           </td>
-                           <td>13</td>
-                           <td>1</td>
-                           <td>5</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/17_fontmix_complex/blob/v1.0.0/data/arnold_ketzerhistorie01_1699/GT-PAGE/arnold_ketzerhistorie01_1699_0115.xml">arnold_ketzerhistorie01_1699_0115.xml</a>
-                           </td>
-                           <td>168</td>
-                           <td>1</td>
-                           <td>18</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/17_fontmix_complex/blob/v1.0.0/data/arnold_ketzerhistorie01_1699/GT-PAGE/arnold_ketzerhistorie01_1699_0114.xml">arnold_ketzerhistorie01_1699_0114.xml</a>
-                           </td>
-                           <td>159</td>
-                           <td>1</td>
-                           <td>17</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/17_fontmix_complex/blob/v1.0.0/data/arnold_ketzerhistorie01_1699/GT-PAGE/arnold_ketzerhistorie01_1699_0011.xml">arnold_ketzerhistorie01_1699_0011.xml</a>
-                           </td>
-                           <td>38</td>
-                           <td>1</td>
-                           <td>3</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -618,35 +548,14 @@ fonts blackletter and antiqua, partly two-columned, initials, partly two-columne
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/17_fontmix_complex/blob/v1.0.0/data/valentinus_occulta_1603/GT-PAGE/valentinus_occulta_1603_0032.xml">valentinus_occulta_1603_0032.xml</a>
-                           </td>
-                           <td>27</td>
-                           <td>1</td>
-                           <td>3</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/17_fontmix_complex/blob/v1.0.0/data/valentinus_occulta_1603/GT-PAGE/valentinus_occulta_1603_0031.xml">valentinus_occulta_1603_0031.xml</a>
+                              <a href="https://github.com/tboenig/17_fontmix_complex/blob/v1.1.1/data/valentinus_occulta_1603/GT-PAGE/valentinus_occulta_1603_0005.xml">valentinus_occulta_1603_0005.xml</a>
                            </td>
                            <td>26</td>
                            <td>1</td>
-                           <td>3</td>
+                           <td>5</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
+                           <td>2</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -660,7 +569,7 @@ fonts blackletter and antiqua, partly two-columned, initials, partly two-columne
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/17_fontmix_complex/blob/v1.0.0/data/valentinus_occulta_1603/GT-PAGE/valentinus_occulta_1603_0033.xml">valentinus_occulta_1603_0033.xml</a>
+                              <a href="https://github.com/tboenig/17_fontmix_complex/blob/v1.1.1/data/valentinus_occulta_1603/GT-PAGE/valentinus_occulta_1603_0033.xml">valentinus_occulta_1603_0033.xml</a>
                            </td>
                            <td>28</td>
                            <td>1</td>
@@ -681,14 +590,14 @@ fonts blackletter and antiqua, partly two-columned, initials, partly two-columne
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/17_fontmix_complex/blob/v1.0.0/data/valentinus_occulta_1603/GT-PAGE/valentinus_occulta_1603_0004.xml">valentinus_occulta_1603_0004.xml</a>
+                              <a href="https://github.com/tboenig/17_fontmix_complex/blob/v1.1.1/data/valentinus_occulta_1603/GT-PAGE/valentinus_occulta_1603_0032.xml">valentinus_occulta_1603_0032.xml</a>
                            </td>
                            <td>27</td>
                            <td>1</td>
                            <td>3</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>1</td>
+                           <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -702,7 +611,7 @@ fonts blackletter and antiqua, partly two-columned, initials, partly two-columne
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/17_fontmix_complex/blob/v1.0.0/data/valentinus_occulta_1603/GT-PAGE/valentinus_occulta_1603_0006.xml">valentinus_occulta_1603_0006.xml</a>
+                              <a href="https://github.com/tboenig/17_fontmix_complex/blob/v1.1.1/data/valentinus_occulta_1603/GT-PAGE/valentinus_occulta_1603_0006.xml">valentinus_occulta_1603_0006.xml</a>
                            </td>
                            <td>30</td>
                            <td>1</td>
@@ -723,14 +632,35 @@ fonts blackletter and antiqua, partly two-columned, initials, partly two-columne
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/17_fontmix_complex/blob/v1.0.0/data/valentinus_occulta_1603/GT-PAGE/valentinus_occulta_1603_0005.xml">valentinus_occulta_1603_0005.xml</a>
+                              <a href="https://github.com/tboenig/17_fontmix_complex/blob/v1.1.1/data/valentinus_occulta_1603/GT-PAGE/valentinus_occulta_1603_0004.xml">valentinus_occulta_1603_0004.xml</a>
+                           </td>
+                           <td>27</td>
+                           <td>1</td>
+                           <td>3</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/17_fontmix_complex/blob/v1.1.1/data/valentinus_occulta_1603/GT-PAGE/valentinus_occulta_1603_0031.xml">valentinus_occulta_1603_0031.xml</a>
                            </td>
                            <td>26</td>
                            <td>1</td>
-                           <td>5</td>
+                           <td>3</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>2</td>
+                           <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -747,10 +677,10 @@ fonts blackletter and antiqua, partly two-columned, initials, partly two-columne
                </td>
             </tr>
             <tr>
-               <th>glauber_opera01_1658</th>
-               <td>376</td>
-               <td>6</td>
-               <td>127</td>
+               <th>lohenstein_agrippina_1665</th>
+               <td>109</td>
+               <td>3</td>
+               <td>56</td>
                <td>0</td>
                <td>0</td>
                <td>3</td>
@@ -793,14 +723,35 @@ fonts blackletter and antiqua, partly two-columned, initials, partly two-columne
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/17_fontmix_complex/blob/v1.0.0/data/glauber_opera01_1658/GT-PAGE/glauber_opera01_1658_0078.xml">glauber_opera01_1658_0078.xml</a>
+                              <a href="https://github.com/tboenig/17_fontmix_complex/blob/v1.1.1/data/lohenstein_agrippina_1665/GT-PAGE/lohenstein_agrippina_1665_0018.xml">lohenstein_agrippina_1665_0018.xml</a>
                            </td>
-                           <td>42</td>
+                           <td>39</td>
                            <td>1</td>
-                           <td>5</td>
+                           <td>34</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/17_fontmix_complex/blob/v1.1.1/data/lohenstein_agrippina_1665/GT-PAGE/lohenstein_agrippina_1665_0121.xml">lohenstein_agrippina_1665_0121.xml</a>
+                           </td>
+                           <td>38</td>
+                           <td>1</td>
+                           <td>13</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -814,17 +765,17 @@ fonts blackletter and antiqua, partly two-columned, initials, partly two-columne
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/17_fontmix_complex/blob/v1.0.0/data/glauber_opera01_1658/GT-PAGE/glauber_opera01_1658_0009.xml">glauber_opera01_1658_0009.xml</a>
+                              <a href="https://github.com/tboenig/17_fontmix_complex/blob/v1.1.1/data/lohenstein_agrippina_1665/GT-PAGE/lohenstein_agrippina_1665_0019.xml">lohenstein_agrippina_1665_0019.xml</a>
                            </td>
-                           <td>143</td>
+                           <td>32</td>
                            <td>1</td>
-                           <td>66</td>
+                           <td>9</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -833,37 +784,65 @@ fonts blackletter and antiqua, partly two-columned, initials, partly two-columne
                            <td>0</td>
                            <td>0</td>
                         </tr>
+                     </table>
+                  </details>
+               </td>
+            </tr>
+            <tr>
+               <th>arnold_ketzerhistorie01_1699</th>
+               <td>378</td>
+               <td>4</td>
+               <td>43</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>6</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+            </tr>
+            <tr>
+               <td colspan="17" style="text-align:left !important;">
+                  <details>
+                     <summary>Overview</summary>
+                     <table>
+                        <thead>
+                           <tr>
+                              <th>document</th>
+                              <th>TextLine</th>
+                              <th>Page</th>
+                              <th>TxtRegion</th>
+                              <th>ImgRegion</th>
+                              <th>LineDrawRegion</th>
+                              <th>GraphRegion</th>
+                              <th>TabRegion</th>
+                              <th>ChartRegion</th>
+                              <th>SepRegion</th>
+                              <th>MathRegion</th>
+                              <th>ChemRegion</th>
+                              <th>MusicRegion</th>
+                              <th>AdRegion</th>
+                              <th>NoiseRegion</th>
+                              <th>UnkownRegion</th>
+                              <th>CustomRegion</th>
+                           </tr>
+                        </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/17_fontmix_complex/blob/v1.0.0/data/glauber_opera01_1658/GT-PAGE/glauber_opera01_1658_0072.xml">glauber_opera01_1658_0072.xml</a>
+                              <a href="https://github.com/tboenig/17_fontmix_complex/blob/v1.1.1/data/arnold_ketzerhistorie01_1699/GT-PAGE/arnold_ketzerhistorie01_1699_0114.xml">arnold_ketzerhistorie01_1699_0114.xml</a>
                            </td>
-                           <td>41</td>
+                           <td>159</td>
                            <td>1</td>
-                           <td>7</td>
+                           <td>17</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/17_fontmix_complex/blob/v1.0.0/data/glauber_opera01_1658/GT-PAGE/glauber_opera01_1658_0029.xml">glauber_opera01_1658_0029.xml</a>
-                           </td>
-                           <td>28</td>
-                           <td>1</td>
-                           <td>8</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
                            <td>2</td>
@@ -877,17 +856,17 @@ fonts blackletter and antiqua, partly two-columned, initials, partly two-columne
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/17_fontmix_complex/blob/v1.0.0/data/glauber_opera01_1658/GT-PAGE/glauber_opera01_1658_0032.xml">glauber_opera01_1658_0032.xml</a>
+                              <a href="https://github.com/tboenig/17_fontmix_complex/blob/v1.1.1/data/arnold_ketzerhistorie01_1699/GT-PAGE/arnold_ketzerhistorie01_1699_0115.xml">arnold_ketzerhistorie01_1699_0115.xml</a>
                            </td>
-                           <td>34</td>
+                           <td>168</td>
                            <td>1</td>
-                           <td>6</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>1</td>
+                           <td>18</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>2</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -898,17 +877,38 @@ fonts blackletter and antiqua, partly two-columned, initials, partly two-columne
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/17_fontmix_complex/blob/v1.0.0/data/glauber_opera01_1658/GT-PAGE/glauber_opera01_1658_0007.xml">glauber_opera01_1658_0007.xml</a>
+                              <a href="https://github.com/tboenig/17_fontmix_complex/blob/v1.1.1/data/arnold_ketzerhistorie01_1699/GT-PAGE/arnold_ketzerhistorie01_1699_0010.xml">arnold_ketzerhistorie01_1699_0010.xml</a>
                            </td>
-                           <td>88</td>
+                           <td>13</td>
                            <td>1</td>
-                           <td>35</td>
+                           <td>5</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>1</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/17_fontmix_complex/blob/v1.1.1/data/arnold_ketzerhistorie01_1699/GT-PAGE/arnold_ketzerhistorie01_1699_0011.xml">arnold_ketzerhistorie01_1699_0011.xml</a>
+                           </td>
+                           <td>38</td>
+                           <td>1</td>
+                           <td>3</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
